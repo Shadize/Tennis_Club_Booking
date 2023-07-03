@@ -5,6 +5,11 @@ Description
 
 Ce projet est une application de réservation de terrain pour un club de tennis. Il permet aux membres en règle de cotisation pour la saison en cours de réserver des terrains pour jouer des matchs en simple ou en double. Un membre doit être en règle de cotisation pour la saison courante qui va du 1er janvier au 31 décembre.
 
+#
+#
+Le back-end de cette application à été créer avec le framework php Laravel
+Le front-end de cette application à été créer avec Vue 3
+
 
 
 
