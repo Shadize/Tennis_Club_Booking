@@ -1,0 +1,46 @@
+.banniere
+{
+    display:flex;
+    background-color: #f4f4f4;
+    height : 75px;
+    justify-content: space-between;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1); /* Couleur de la bordure */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Ombre portée */
+  
+    margin-bottom: 15px;
+}
+.bann{
+    width: 50%;
+}
+.menu{
+    display:flex;
+    gap:5px;
+}
+
+
+.profil{
+    display:flex;
+    justify-self: right;
+    gap:5px;
+}
+
+.logo
+{
+    width : 75px;
+    height : 75px;
+}
+
+button
+{
+    background-color: #f4f4f4;
+    color:#000000;
+}
+
+button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+button:hover {
+    background-color: #c9c9c9;
+}

@@ -1,0 +1,143 @@
+/*
+table
+{
+    display: table;
+    border-collapse: collapse ;
+    border-spacing: 0;
+}
+
+.case_tableau
+{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+
+}
+
+.ligne_tableau
+{
+    display: table-row;
+    width: 100%;
+    justify-content: space-around;
+    text-align: center;
+
+}
+
+.souligner, .case_tableau, .ligne_tableau
+{
+    border-bottom: 2px groove #b2b2b2;
+}
+
+.ligne_head
+{
+
+    background-color: grey;
+    border-bottom: none;
+}
+
+.case_head
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: none;
+    color:white;
+}
+
+.tableau
+{
+    width: 100%;
+}
+*/
+
+
+.terrain-list {
+    max-width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  
+
+  
+  table.tableau {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-top: 20px;
+  }
+
+  .case_tableau button {
+
+    margin-right: 15px;
+  }
+
+  .button-container{
+    display: flex;
+    flex-direction: row;
+    width: auto;
+  }
+  
+  table.tableau th,
+  table.tableau td {
+    padding: 10px;
+    text-align: left;
+    min-width: 100px;
+  }
+  
+  table.tableau th {
+    font-weight: bold;
+    background-color: lightgray;
+  }
+  
+  table.tableau tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  table.tableau tbody tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .alert {
+    background-color: #f8d7da;
+    color: #721c24;
+    padding: 10px;
+    border-radius: 4px;
+    margin-top: 10px;
+  }
+  
+  /* Responsive styles */
+  @media (max-width: 768px) {
+    .reservation-list {
+      max-width: 100%;
+      padding: 10px;
+    }
+  
+    h1 {
+      font-size: 20px;
+    }
+  
+    button {
+      padding: 4px 8px;
+    }
+  }
+  
