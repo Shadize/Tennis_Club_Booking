@@ -50,4 +50,6 @@ Le numéro d’affiliation est composé de 7 chiffres et ne peut pas commencer p
 
 
 Installation et Utilisation
+
+
 Pour installer et utiliser l'application, suivez les instructions dans le fichier INSTALL.md
