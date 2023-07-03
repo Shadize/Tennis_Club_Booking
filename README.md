@@ -1,15 +1,16 @@
 Tennis Club Reservation System
+#
+Dans le cadre d'un projet d'intégration dans un Bachelier en informatique de Gestion, en groupe de 2 personnes nous avons été amener à créer notre toute première application utilisant du PHP. 
+Le back-end de cette application à été créer avec le framework php Laravel
 
+Le front-end de cette application à été créer avec Vue 3
 
+Etant un travail de groupe, les tâches ont été réparties dans le projet. J'ai travailler sur toute la gestion des terrains et des réservations.
+#
 Description
 
 Ce projet est une application de réservation de terrain pour un club de tennis. Il permet aux membres en règle de cotisation pour la saison en cours de réserver des terrains pour jouer des matchs en simple ou en double. Un membre doit être en règle de cotisation pour la saison courante qui va du 1er janvier au 31 décembre.
 
-#
-
-Le back-end de cette application à été créer avec le framework php Laravel
-
-Le front-end de cette application à été créer avec Vue 3
 #
 
 
@@ -32,7 +33,7 @@ Les membres peuvent consulter la liste des membres, triés par catégorie, par c
 Les terrains sont identifiés par un numéro et les membres par leur numéro d'affiliation à l'Association Fédéral de Tennis (AFT).
 
 
-
+#
 Administration
 
 
@@ -45,7 +46,7 @@ Les administrateurs peuvent ajouter ou supprimer un terrain.
 Les administrateurs peuvent modifier les coordonnées des membres, ajouter un membre, réserver un terrain pour un membre, ou supprimer un membre.
 
 
-
+#
 
 Infos membres et terrains
 
@@ -56,7 +57,7 @@ Les classements possibles sont : A, B-15.4 ; B-15.2 ; B-15.1, B15, B-4/6, B-2/6 
 Le numéro d’affiliation est composé de 7 chiffres et ne peut pas commencer par 0.
 
 
-
+#
 
 Installation et Utilisation
 
