@@ -42,7 +42,10 @@ Les administrateurs peuvent modifier les coordonnées des membres, ajouter un me
 
 
 Infos membres et terrains
-Un membre est caractérisé par son nom, prénom, adresse, numéro de téléphone, e-mail, date de naissance, sexe, et classement. Les classements possibles sont : A, B-15.4 ; B-15.2 ; B-15.1, B15, B-4/6, B-2/6 ; B0 ; B+2/6 ; B+4/6 ; C15 ; C15.1 ; C15.2 ; ;C15.3, c15.4 ; C30 ; C30.1, c30.2 ;C30.3 ;C30.4 ; C30.5, N.C.
+
+Un membre est caractérisé par son nom, prénom, adresse, numéro de téléphone, e-mail, date de naissance, sexe, et classement. 
+
+Les classements possibles sont : A, B-15.4 ; B-15.2 ; B-15.1, B15, B-4/6, B-2/6 ; B0 ; B+2/6 ; B+4/6 ; C15 ; C15.1 ; C15.2 ; ;C15.3, c15.4 ; C30 ; C30.1, c30.2 ;C30.3 ;C30.4 ; C30.5, N.C.
 
 Le numéro d’affiliation est composé de 7 chiffres et ne peut pas commencer par 0.
 
