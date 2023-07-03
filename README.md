@@ -28,6 +28,8 @@ Les terrains sont identifiés par un numéro et les membres par leur numéro d'a
 
 
 Administration
+
+
 Les administrateurs du club, qui sont également membres, peuvent activer ou désactiver les membres en fonction de leur cotisation.
 
 Les administrateurs peuvent "bloquer" des terrains pour des raisons diverses, comme les interclubs, les tournois, les cours, les travaux, etc.
